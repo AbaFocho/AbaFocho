@@ -1,7 +1,7 @@
 ## Hi there 👋
 
  This is Aba Focho
-[![Gmail Badge](https://img.shields.io/badge/-abaghen4@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:abaghen4@gmail.com)](mailto:abaghen4@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-abafocho@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:abaghen4@gmail.com)](mailto:abaghen4@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/abafocho/-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/abafocho//)](https://www.linkedin.com/in/https://www.linkedin.com/in/abafocho//) [![Twitter Badge](https://img.shields.io/badge/-FoshoTheOne-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/FoshoTheOne/)](https://www.twitter.com/FoshoTheOne/) <p align='left'>Diligent, motivated data analyst with experience on technical projects in business analytics, data visualization, Tableu, Python, SQL and ML.
 
 Currently working on identifying root causes for high returns at Superstore using customer sales data.
